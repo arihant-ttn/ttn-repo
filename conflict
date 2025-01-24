@@ -1,0 +1,29 @@
+[33mcommit 3a2ca2952dc0564ccf53473fe2ee6d1af0e317d7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mbranch1[m[33m)[m
+Author: Arihant Kulshrestha <arihant.kulshrestha@tothenew.com>
+Date:   Thu Jan 23 16:06:30 2025 +0530
+
+    branch1 commit
+
+[33mcommit 68acc25b5ce962cdfc2d6ca023d7408681a1d62e[m[33m ([m[1;32mbranch2[m[33m)[m
+Author: Arihant Kulshrestha <arihant.kulshrestha@tothenew.com>
+Date:   Thu Jan 23 16:05:20 2025 +0530
+
+    branch2 commit
+
+[33mcommit e7d7556cba9642b3db76216b5af439ff81cbd907[m
+Author: Arihant Kulshrestha <arihant.kulshrestha@tothenew.com>
+Date:   Thu Jan 23 15:59:05 2025 +0530
+
+    branch1 commit
+
+[33mcommit 7a6f5c943e888e856cc7a3bc5f2fe3ec3f812111[m
+Author: Arihant Kulshrestha <arihant.kulshrestha@tothenew.com>
+Date:   Thu Jan 23 15:56:37 2025 +0530
+
+    branch2 commit
+
+[33mcommit f1bf953d9f6dd8498b157a63d057ef74cff6078c[m
+Author: Arihant Kulshrestha <arihant.kulshrestha@tothenew.com>
+Date:   Thu Jan 23 15:50:38 2025 +0530
+
+    branch commit
